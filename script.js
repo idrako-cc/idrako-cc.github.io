@@ -65,7 +65,7 @@ const trayectoriaData = [
     nombre: "PandaMC",
     rol: "Mini-Media",
     descripcion:
-      "El primer server que confio en mi.: "pandamc.us",
+      "El primer server que confio en mi.: "pandamc.us"
   },
 
 
