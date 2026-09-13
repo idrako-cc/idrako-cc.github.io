@@ -62,34 +62,12 @@ function initMobileMenu() {
    ========================================================================== */
 const trayectoriaData = [
   {
-    nombre: "Canal principal",
-    rol: "Creador de contenido",
+    nombre: "PandaMC",
+    rol: "Mini-Media",
     descripcion:
-      "Vídeos y clips centrados en Minecraft y en la comunidad, desde la idea hasta la edición final.",
-    info: "En curso",
+      "El primer server que confio en mi.: "pandamc.us - 19132",
   },
-  {
-    nombre: "Servidor comunitario",
-    rol: "Staff / Gestión",
-    descripcion:
-      "Apoyo en la organización del servidor, moderación y coordinación de eventos para la comunidad.",
-    info: "Minecraft",
-  },
-  {
-    nombre: "Identidad visual",
-    rol: "Diseño",
-    descripcion:
-      "Banners, miniaturas y piezas gráficas para el canal y para otros creadores de la comunidad.",
-    info: "Diseño gráfico",
-  },
-  {
-    nombre: "Discord de la comunidad",
-    rol: "Configuración",
-    descripcion:
-      "Estructura de canales, roles y bots para mantener el espacio ordenado y activo.",
-    info: "Comunidad",
-  },
-];
+
 
 function renderTrayectoria() {
   const grid = document.getElementById("trayectoriaGrid");
