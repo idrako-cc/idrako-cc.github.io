@@ -8,4 +8,4 @@ const jobs=[
 ["MineMoon","+50 usuarios","Jr-Mod"],["NightBox","+20 usuarios","Sr-Admin"]
 ];
 document.getElementById("cards").innerHTML=jobs.map(x=>`<article class="card"><b>${x[0]}</b><span>${x[1]}</span><strong>${x[2]}</strong></article>`).join("");
-document.getElementById("discord").onclick=async()=>{try{await navigator.clipboard.writeText("marinffeditor");}catch(e){};document.getElementById("discord").innerHTML="Discord<br><b>marinffeditor</b> — Copiado";};
+document.getElementById("discord").onclick=async()=>{try{await navigator.clipboard.writeText("idrako__");}catch(e){};document.getElementById("discord").innerHTML="Discord<br><b>idrako__</b> — Copiado";};
