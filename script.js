@@ -62,11 +62,11 @@ function initMobileMenu() {
    ========================================================================== */
 const trayectoriaData = [
   {
-    nombre: "Canal principal",
-    rol: "Creador de contenido",
+    nombre: "PandaMC",
+    rol: "Mini media",
     descripcion:
-      "Vídeos y clips centrados en Minecraft y en la comunidad, desde la idea hasta la edición final.",
-    info: "En curso",
+      "El primer servidor donde fui parte del media team.",
+    info: "pandamc.us",
   },
   {
     nombre: "Servidor comunitario",
