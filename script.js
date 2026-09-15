@@ -64,8 +64,7 @@ const trayectoriaData = [
   {
     nombre: "PandaMC",
     rol: "Creador de contenido.",
-    descripcion:
-    "Mini-Media.",
+    descripcion: "Mini-Media.",
     info: "pandamc.us|19132",
   },
   {
