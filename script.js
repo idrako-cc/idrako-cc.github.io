@@ -62,32 +62,32 @@ function initMobileMenu() {
    ========================================================================== */
 const trayectoriaData = [
   {
-    nombre: "Canal principal",
-    rol: "Creador de contenido",
+    nombre: "PandaMC",
+    rol: "Creador de contenido.",
     descripcion:
-      "Vídeos y clips centrados en Minecraft y en la comunidad, desde la idea hasta la edición final.",
-    info: "En curso",
+      "Publique videos en mi cuenta de forma constante.",
+    info: "pandamc.us|19132",
   },
   {
-    nombre: "Servidor comunitario",
-    rol: "Staff / Gestión",
+    nombre: "Proximamente",
+    rol: "Proximamente",
     descripcion:
-      "Apoyo en la organización del servidor, moderación y coordinación de eventos para la comunidad.",
-    info: "Minecraft",
+      "Proximamente.",
+    info: "Proximamente",
   },
   {
-    nombre: "Identidad visual",
-    rol: "Diseño",
+    nombre: "Proximamente",
+    rol: "Proximamente",
     descripcion:
-      "Banners, miniaturas y piezas gráficas para el canal y para otros creadores de la comunidad.",
-    info: "Diseño gráfico",
+      "Proximamente.",
+    info: "Proximamente",
   },
   {
-    nombre: "Discord de la comunidad",
-    rol: "Configuración",
+    nombre: "Proximamente",
+    rol: "Proximamente",
     descripcion:
-      "Estructura de canales, roles y bots para mantener el espacio ordenado y activo.",
-    info: "Comunidad",
+      "Proximamente.",
+    info: "Proximamente",
   },
 ];
 
