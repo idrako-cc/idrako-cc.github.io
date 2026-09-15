@@ -62,11 +62,11 @@ function initMobileMenu() {
    ========================================================================== */
 const trayectoriaData = [
   {
-    nombre: "Proximamente",
-    rol: "Proximamente",
+    nombre: "PandaMC",
+    rol: "Creador de contenido",
     descripcion:
-      "Proximamente.",
-    info: "Proximamente",
+      "Mini media.",
+    info: "pandamc.us|19132",
   },
   {
     nombre: "Proximamente",
