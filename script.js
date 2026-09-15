@@ -67,7 +67,7 @@ const trayectoriaData = [
     descripcion:
       "El primer servidor donde fui parte del media team.",
     info: "pandamc.us",
-  }
+  },
 ];
 
 function renderTrayectoria() {
