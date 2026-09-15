@@ -67,28 +67,7 @@ const trayectoriaData = [
     descripcion:
       "El primer servidor donde fui parte del media team.",
     info: "pandamc.us",
-  },
-  {
-    nombre: "Servidor comunitario",
-    rol: "Staff / Gestión",
-    descripcion:
-      "Apoyo en la organización del servidor, moderación y coordinación de eventos para la comunidad.",
-    info: "Minecraft",
-  },
-  {
-    nombre: "Identidad visual",
-    rol: "Diseño",
-    descripcion:
-      "Banners, miniaturas y piezas gráficas para el canal y para otros creadores de la comunidad.",
-    info: "Diseño gráfico",
-  },
-  {
-    nombre: "Discord de la comunidad",
-    rol: "Configuración",
-    descripcion:
-      "Estructura de canales, roles y bots para mantener el espacio ordenado y activo.",
-    info: "Comunidad",
-  },
+  }
 ];
 
 function renderTrayectoria() {
