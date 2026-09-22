@@ -117,7 +117,7 @@ function renderTrayectoria() {
 const serviciosData = [
   {
     titulo: "Edición de vídeos",
-    descripcion: "Edito mis videos y estoy aprendiendo mas para mejorar su calidad..",
+    descripcion: "Edito mis videos y estoy aprendiendo mas para mejorar su calidad.",
     icono: `<svg viewBox="0 0 24 24" fill="none"><path d="M4 6h16v12H4z" stroke="currentColor" stroke-width="1.5"/><path d="M10 9.5v5l4-2.5-4-2.5Z" fill="currentColor"/></svg>`,
   },
   {
