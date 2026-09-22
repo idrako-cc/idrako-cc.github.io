@@ -130,6 +130,7 @@ const serviciosData = [
     descripcion: "Cada dia intento mejorar como creador de contenido y staff.",
     icono: `<svg viewBox="0 0 24 24" fill="none"><rect x="4" y="4" width="16" height="16" rx="3" stroke="currentColor" stroke-width="1.5"/><circle cx="9" cy="10" r="1.4" fill="currentColor"/><path d="M5 17l5-5 4 4 3-3 2 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
   },
+  
 ];
 
 function renderServicios() {
