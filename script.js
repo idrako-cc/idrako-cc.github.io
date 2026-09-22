@@ -117,33 +117,18 @@ function renderTrayectoria() {
 const serviciosData = [
   {
     titulo: "Edición de vídeos",
-    descripcion: "Montaje, ritmo y efectos para que tu contenido se vea profesional.",
+    descripcion: "Edito mis videos y estoy aprendiendo mas para mejorar su calidad..",
     icono: `<svg viewBox="0 0 24 24" fill="none"><path d="M4 6h16v12H4z" stroke="currentColor" stroke-width="1.5"/><path d="M10 9.5v5l4-2.5-4-2.5Z" fill="currentColor"/></svg>`,
   },
   {
     titulo: "Creación de contenido",
-    descripcion: "Ideas y guion para vídeos que conecten con tu comunidad.",
+    descripcion: "Ideas originales para crear contenido.",
     icono: `<svg viewBox="0 0 24 24" fill="none"><path d="M4 5h16v10H8l-4 4V5Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>`,
   },
   {
-    titulo: "Diseños para redes",
-    descripcion: "Piezas gráficas pensadas para cada red social.",
+    titulo: "Habilidades de moderación",
+    descripcion: "Cada dia intento mejorar como creador de contenido y staff.",
     icono: `<svg viewBox="0 0 24 24" fill="none"><rect x="4" y="4" width="16" height="16" rx="3" stroke="currentColor" stroke-width="1.5"/><circle cx="9" cy="10" r="1.4" fill="currentColor"/><path d="M5 17l5-5 4 4 3-3 2 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
-  },
-  {
-    titulo: "Banners",
-    descripcion: "Cabeceras para canal, servidor o perfil, a tu medida.",
-    icono: `<svg viewBox="0 0 24 24" fill="none"><rect x="3" y="7" width="18" height="10" rx="2" stroke="currentColor" stroke-width="1.5"/><path d="M7 12h10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>`,
-  },
-  {
-    titulo: "Miniaturas",
-    descripcion: "Portadas que destacan y dan ganas de hacer clic.",
-    icono: `<svg viewBox="0 0 24 24" fill="none"><rect x="3" y="5" width="18" height="14" rx="2" stroke="currentColor" stroke-width="1.5"/><path d="M9 9.5v5l4.5-2.5L9 9.5Z" fill="currentColor"/></svg>`,
-  },
-  {
-    titulo: "Configuración de Discord",
-    descripcion: "Roles, canales y bots para tener tu servidor bajo control.",
-    icono: `<svg viewBox="0 0 24 24" fill="none"><circle cx="9" cy="9" r="2" stroke="currentColor" stroke-width="1.5"/><circle cx="15" cy="15" r="2" stroke="currentColor" stroke-width="1.5"/><path d="M9 11v2a2 2 0 0 0 2 2h1M15 13v-2a2 2 0 0 0-2-2h-1" stroke="currentColor" stroke-width="1.5"/></svg>`,
   },
 ];
 
