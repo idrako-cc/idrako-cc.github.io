@@ -1,5 +1,5 @@
 /* ==========================================================================
-   iDrako_ — Portafolio
+   Cris — Portafolio
    Lógica de interfaz: navbar, contenido dinámico y contacto.
    ========================================================================== */
 
@@ -62,11 +62,11 @@ function initMobileMenu() {
    ========================================================================== */
 const trayectoriaData = [
   {
-    nombre: "PandaMC",
-    rol: "Creador de contenido",
+    nombre: "Proximamente",
+    rol: "Proximamente",
     descripcion:
-      "Mini media.",
-    info: "pandamc.us|19132",
+      "Proximamente.",
+    info: "Proximamente",
   },
   {
     nombre: "Proximamente",
