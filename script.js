@@ -62,32 +62,39 @@ function initMobileMenu() {
    ========================================================================== */
 const trayectoriaData = [
   {
-    nombre: "Proximamente",
-    rol: "Proximamente",
+    nombre: "PandaMC",
+    rol: "Media Manager",
     descripcion:
-      "Proximamente.",
-    info: "Proximamente",
+      "Servidor de Minecraft",
+    info: "pandamc.us | 19132",
   },
   {
-    nombre: "Proximamente",
-    rol: "Proximamente",
+    nombre: "EskMC Network",
+    rol: "Media Manager",
     descripcion:
-      "Proximamente.",
-    info: "Proximamente",
+      "Servidor de Minecraft.",
+    info: "eskmc.net | 19132",
   },
   {
-    nombre: "Proximamente",
-    rol: "Proximamente",
+    nombre: "NautilusMC",
+    rol: "Media Manager",
     descripcion:
-      "Proximamente.",
-    info: "Proximamente",
+      "Servidor de Minecraft.",
+    info: "nautilumc.us | 19132",
   },
   {
-    nombre: "Proximamente",
-    rol: "Proximamente",
+    nombre: "KronixMC",
+    rol: "Media Manager",
     descripcion:
-      "Proximamente.",
-    info: "Proximamente",
+      "Servidor de Minecraft.",
+    info: "kronixmc.net",
+  },
+  {
+    nombre: "MineGhoul",
+    rol: "Media Manager",
+    descripcion:
+      "Servidor de Minecraft.",
+    info: "mineghoul.us",
   },
 ];
 
