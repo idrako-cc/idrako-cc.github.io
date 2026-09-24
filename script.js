@@ -129,7 +129,7 @@ const serviciosData = [
   },
   {
     titulo: "Servicio Organizado",
-    descripcion: "Sin proboemas.",
+    descripcion: "Sin problemas.",
     icono: `<svg viewBox="0 0 24 24" fill="none"><path d="M4 5h16v10H8l-4 4V5Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>`,
   },
   {
