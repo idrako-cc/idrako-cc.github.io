@@ -123,18 +123,15 @@ function renderTrayectoria() {
    ========================================================================== */
 const serviciosData = [
   {
-    titulo: "Edición de vídeos",
-    descripcion: "Edito mis videos y estoy aprendiendo mas para mejorar su calidad.",
+    titulo: "Servicio Organizado",
     icono: `<svg viewBox="0 0 24 24" fill="none"><path d="M4 6h16v12H4z" stroke="currentColor" stroke-width="1.5"/><path d="M10 9.5v5l4-2.5-4-2.5Z" fill="currentColor"/></svg>`,
   },
   {
-    titulo: "Creación de contenido",
-    descripcion: "Ideas originales para crear contenido.",
+    titulo: "Buena Administración",
     icono: `<svg viewBox="0 0 24 24" fill="none"><path d="M4 5h16v10H8l-4 4V5Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>`,
   },
   {
-    titulo: "Habilidades de moderación",
-    descripcion: "Cada dia intento mejorar como creador de contenido y staff.",
+    titulo: "Habilidades de moderación",#
     icono: `<svg viewBox="0 0 24 24" fill="none"><rect x="4" y="4" width="16" height="16" rx="3" stroke="currentColor" stroke-width="1.5"/><circle cx="9" cy="10" r="1.4" fill="currentColor"/><path d="M5 17l5-5 4 4 3-3 2 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
   },
   
